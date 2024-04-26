@@ -7,7 +7,6 @@ This document outlines the steps for modifying a Google Apps Script provided by 
 
 ## Prompt Engineering
 1. **Translate instructions:** The `q` variable within the script contains the instructions for Gemini. Translate these instructions into Russian to ensure accurate understanding and processing.
-   - *Example:* Provide a translated version of the `q` variable with Russian instructions for extracting information from the PDF.
 
 ## Data Validation
 1. **Running the scritp:** In oreder to run the script that you can find in this repository you need to uncert your own API Key into the `Sample.gs` file.
